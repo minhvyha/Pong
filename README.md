@@ -37,3 +37,6 @@ I created three different draw functions, draw, draw_start and draw_end, to disp
 \
 \
 The handle_coll and handle_key functions in the program control the movement of the paddle and the ball by changing it y location and checking if the ball location hit the wall or the paddle location.
+\
+\
+Note: pygame library need to be installed before running this project.
