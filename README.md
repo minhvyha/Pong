@@ -1,7 +1,7 @@
 # **Pong Game**
 
 ## **Video Demo:**
-`https://youtu.be/Jdq0lGXcUm4`
+[Live Demo](https://youtu.be/Jdq0lGXcUm4)
 
 ## **Description:**
 
