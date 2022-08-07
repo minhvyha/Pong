@@ -40,3 +40,4 @@ The handle_coll and handle_key functions in the program control the movement of 
 \
 \
 Note: pygame library need to be installed before running this project.
+![preview img](/preview.png)
